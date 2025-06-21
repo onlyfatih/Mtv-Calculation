@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68106a81-be6e-44fa-a307-3911dca07a2d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/MTVCalculator.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/MTVCalculator.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2yjxGrL2Jkg33BT8vAzlcnydz5K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fatih/Desktop/GİB/untitled/src/main/resources&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/fatih/Desktop/GİB/untitled/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3134796&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/locators" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: MTVCalculator">
+    <configuration name="Feature: MTVCalculator" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/MTVCalculator.feature" />
+      <option name="GLUE" value="stepdefinitions hooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="mtv-calculator-automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: MTVCalculator" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Error message should appear when &quot;&lt;fieldLabel&gt;&quot; is left empty" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/MTVCalculator.feature" />
+      <option name="GLUE" value="stepdefinitions hooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="mtv-calculator-automation" />
+      <option name="NAME_FILTER" value="^Error message should appear when \&quot;.*\&quot; is left empty$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Error message should appear when \&quot;.*\&quot; is left empty$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Error message should appear when &quot;&lt;fieldLabel&gt;&quot; is left empty" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Error message should appear when is left empty" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/MTVCalculator.feature" />
+      <option name="GLUE" value="stepdefinitions hooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="mtv-calculator-automation" />
+      <option name="NAME_FILTER" value="^Error message should appear when is left empty$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Error message should appear when is left empty$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Error message should appear when is left empty" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Motor Silindir Hacmi seçilmeden hesapla butonuna basıldığında sonuç görünmemeli" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/MTVCalculator.feature" />
+      <option name="GLUE" value="stepdefinitions hooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="mtv-calculator-automation" />
+      <option name="NAME_FILTER" value="^Motor Silindir Hacmi seçilmeden hesapla butonuna basıldığında sonuç görünmemeli$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Motor Silindir Hacmi seçilmeden hesapla butonuna basıldığında sonuç görünmemeli$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Motor Silindir Hacmi seçilmeden hesapla butonuna basıldığında sonuç görünmemeli" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate error messages when required fields are left empty" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/MTVCalculator.feature" />
+      <option name="GLUE" value="stepdefinitions hooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="mtv-calculator-automation" />
+      <option name="NAME_FILTER" value="^Validate error messages when required fields are left empty$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate error messages when required fields are left empty$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate error messages when required fields are left empty" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: MTVCalculator" />
+        <item itemvalue="Cucumber Java.Scenario: Validate error messages when required fields are left empty" />
+        <item itemvalue="Cucumber Java.Scenario: Error message should appear when is left empty" />
+        <item itemvalue="Cucumber Java.Scenario: Error message should appear when &quot;&lt;fieldLabel&gt;&quot; is left empty" />
+        <item itemvalue="Cucumber Java.Scenario: Motor Silindir Hacmi seçilmeden hesapla butonuna basıldığında sonuç görünmemeli" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68106a81-be6e-44fa-a307-3911dca07a2d" name="Changes" comment="" />
+      <created>1750361690895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750361690895</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

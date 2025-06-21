@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Assertion Failure",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*AssertionError.*"
+  },
+  {
+    "name": "Element Not Found",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*NoSuchElementException.*"
+  },
+  {
+    "name": "Timeout",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*TimeoutException.*"
+  },
+  {
+    "name": "Broken Test",
+    "matchedStatuses": ["broken"]
+  },
+  {
+    "name": "Product Defect",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*CalculationMismatchException.*|.*BusinessRuleViolation.*"
+  }
+]
